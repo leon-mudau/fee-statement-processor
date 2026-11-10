@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+output/
+*.spec
+
+# Never commit real student data
+*.pdf
+*.xlsx
+*.zip
